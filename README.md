@@ -1,5 +1,5 @@
 # 2020. 11 Java Project  
-시중 중고거래 플랫폼과 유사한 애플리케이션을 Java swing GUI와 MariaDB를 활용해 구현한 JUNGO BUY 미니 프로젝트이며,  
+시중 중고거래 플랫폼과 유사한 애플리케이션을 Java swing GUI와 MariaDB를 활용해 구현한 JUNGO BUY 미니 프로젝트이며, 
 해당 프로젝트의 [Java Docs](https://dooye0ng.github.io/megaIT/project/AppProject/doc/)도 함께 제작했습니다.
 
 ## 개요
